@@ -9,6 +9,7 @@
 
 ## Code style:
 - [black](3_wednesday/210331.MD)
+- [pylint vs flake8](3_wednesday/210407.MD)
 
 ## CodeWars:
 - [Неделя 1](2_tuesday/210330.MD) > [подсказки](6_saturday/210403.MD)
@@ -18,3 +19,9 @@
 
 ## DataType:
 - [int](5_friday/210402.MD)
+
+## project structure:
+- [Чем плох pip?](5_friday/210408.MD)
+
+## Статьи за неделю:
+- [210404](7_sunday/210404.MD) 
